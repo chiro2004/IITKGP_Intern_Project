@@ -1,1 +1,1 @@
-Built a <i>machine learning</i> model for  the analysis of mental health of college students based on multiple parameters using the  <i>XGBoost</i> algorithm .Data obtained from the Kaggle website. Done as a part of my <i>Winter Internship</i> at <i>IIT Kharagpur</i>
+Built a <i>machine learning</i> model for  the analysis of mental health of college students based on multiple parameters using the  <i>XGBoost</i> algorithm .Data collected from the under_graduate students of IITKGP. Done as a part of my <i>Winter Internship</i> at <i>IIT Kharagpur</i>
